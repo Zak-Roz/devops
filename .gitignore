@@ -1,0 +1,4 @@
+/terraform-ec2/terraform*
+/terraform-ec2/.terraform*
+/terraform-ec2/out*
+/terraform-ec2/variable.tf
