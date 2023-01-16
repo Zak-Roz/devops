@@ -26,7 +26,7 @@ pipelineJob(job_name) {
       scm {
         git {
           remote {
-            github('Zak-Roz/devops-semple')
+            github('Zak-Roz/devops-pipeline')
           }
           branches('${GIT_BRANCH}')
         }
